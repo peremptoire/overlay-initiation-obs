@@ -17,7 +17,7 @@ Il vous suffit de télécharger le pack overlay et de l'importer proprement dans
 Le dossier de l'overlay contient : 
 - les **élements graphiques** utilisés (image de fond, cadre, logo...)
 - Le fichier **"overlay-initiation.json"** à importer en tant que **"Collection de scènes"** dans OBS Studio et qui contient la structure de l'overlay (scènes, sources...)
-- Le dossier **"overlayinitiation720p"** à importer en tant que **"Profil"** dans OBS Studio et qui contient les paramètres de streaming et d'enregistrement (bitrate, encodage...)
+- Le dossier **"overlayinitiation720p"** à importer en tant que **"Profil"** dans OBS Studio et qui contient une première base de paramétrages basiques (bitrate, encodage...)
 
 L'overlay est construit sur le principe des **scènes imbriquées** (ou "nested scenes") avec 3 niveaux différents : 
 

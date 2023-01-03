@@ -33,13 +33,13 @@ N'hésitez pas à faire une copie de sauvegarde de l'overlay avant de commencer 
 
 
 ## Installation et mise en place de l'overlay
-- Telechargez OBS si besoin. La version utilisée (28.1.1) est une version vanilla (sans scripts ou plugins ajoutés).
+- Telechargez [OBS](https://obsproject.com/fr) si besoin. La version utilisée (28.1.1) est une version *vanilla* (sans scripts ou plugins ajoutés).
 - Téléchargez l'overlay via le bouton vert "Code" puis sélectionnez "Download Zip".
 - Décompressez le dossier sur votre ordinateur
 - Lancez OBS
 - Dans le menu "Collection de scènes”, sélectionnez “Importer” puis dans le champ “Chemin de la collection”, selectionnez le fichier overlay-template.json. 
 - Pour compléter les fichiers manquants, toujours dans le menu "Collection de scènes", séléctionnez l'option "Vérifier les fichiers manquants" puis "Rechercher dans le dossier" puis pointez vers le dossier contenant les éléments de l'overlays,
-- Dans le menu "Profil", sélectionnez "Importer" et pointez sur le dossier "overlayinitiation720p".
+- Dans le menu "Profil", sélectionnez "Importer" et pointez le dossier "overlayinitiation720p".
 
 
 ## Aller plus loin

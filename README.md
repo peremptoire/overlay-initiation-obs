@@ -3,6 +3,8 @@
 
 ## Description
 
+![overlay-initiation](https://user-images.githubusercontent.com/91347360/210372163-1003ba8c-8e9d-43dd-a5a5-59018c5908a3.gif)
+
 L'overlay proposé ici est un template volontairement **simplifié et générique**. Il est personnalisable et peut être utilisé dans le cadre d'un stream simple, mais est principalement pensé dans un but de découverte et d'initiation pratique à OBS.
 
 Il vous suffit de télécharger le pack overlay et de l'importer proprement dans OBS Studio (voir instructions ci-dessous), ensuite soyez libres de l'utiliser, de le modifier, de le décortiquer comme bon vous semble.

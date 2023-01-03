@@ -16,16 +16,16 @@ Il vous suffit de télécharger le pack overlay et de l'importer proprement dans
 
 Le dossier de l'overlay contient : 
 - les **élements graphiques** utilisés (image de fond, cadre, logo...)
-- Le fichier **"overlay-initiation.json"** à importer en tant que "Collection de scènes" dans OBS Studio et qui contient la structure de l'overlay (scènes, sources...)
-- Le dossier **"overlay-initiation-720p"** à importer en tant que "Profil" dans OBS Studio et qui contient les paramètres de streaming et d'enregistrement (bitrate, encodage...)
+- Le fichier **"overlay-initiation.json"** à importer en tant que **"Collection de scènes"** dans OBS Studio et qui contient la structure de l'overlay (scènes, sources...)
+- Le dossier **"overlay-initiation-720p"** à importer en tant que **"Profil"** dans OBS Studio et qui contient les paramètres de streaming et d'enregistrement (bitrate, encodage...)
 
-L'overlay est construit sur le principe des scènes imbriquées (ou "nested scenes") avec 3 niveaux différents : 
+L'overlay est construit sur le principe des **scènes imbriquées** (ou "nested scenes") avec 3 niveaux différents : 
 
-- **Scènes “ASSET”** : Ces scènes ne sont pas destinées à être utilisées directement en live. Elles servent à "stocker" certains éléments uniques, comme par exemple la scène "ASSET - Background"
-- **Scènes "MIX"** : Ces scènes ne sont pas destinées à être utilisées directement en live. Il s'agit d'un niveau intermédiaire de scènes qui sert à "composer" des éléments récurrents, comme par exemple la scène "MIX - Scène d'attente".
-- **Scènes "LIVE"** : Ces scènes sont destinées à être utilisées en live. 
+- **Scènes “ASSET”** : Ces scènes ne sont pas destinées à être utilisées directement en live. Elles servent à **"stocker"** certains éléments uniques, comme par exemple la scène "ASSET - Background"
+- **Scènes "MIX"** : Ces scènes ne sont pas destinées à être utilisées directement en live. Il s'agit d'un niveau intermédiaire de scènes qui sert à **"composer"** des éléments récurrents, comme par exemple la scène "MIX - Scène d'attente".
+- **Scènes "LIVE"** : Ces scènes sont destinées à être utilisées en live et intégrer les derniers éléments. 
 
-Pour personnaliser l'overlay à votre convenance, vous pouvez ajouter ou modifier l'image de fond, le logo, les textes, la chatroom  dans les scènes correspondantes. Vous pouvez également vous connecter à votre compte Twitch dans les paramètres puis dans "Stream (Flux)".
+Pour **personnaliser l'overlay** à votre convenance, vous pouvez ajouter ou modifier l'image de fond, le logo, les textes, la chatroom (avec [Kapchat](https://nightdev.com/kapchat))  dans les scènes correspondantes. Vous pouvez également vous connecter à votre compte Twitch dans les paramètres puis dans **"Stream (Flux)"**.
 
 N'hésitez pas à faire une copie de sauvegarde de l'overlay avant de commencer à modifier les éléments.
 
@@ -44,7 +44,6 @@ N'hésitez pas à faire une copie de sauvegarde de l'overlay avant de commencer 
 
 - [Atelier Badgeek - OBS partie 1 : Les bases](https://www.youtube.com/watch?v=zDg4tO1_jhM)
 - [Atelier Badgeek - OBS partie 2 : Filtres, plugins et overlays](https://www.youtube.com/watch?v=luTexi3Aefc)
-
 
 
 ## Auteur

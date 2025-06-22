@@ -49,4 +49,4 @@ N'hésitez pas à faire une copie de sauvegarde de l'overlay avant de commencer 
 
 
 ## Auteur
-* **Peremptoire** [@peremptoire](https://twitter.com/peremptoire)
+* **Peremptoire** [@peremptoire](https://bsky.app/profile/peremptoire.bsky.social)
